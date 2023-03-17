@@ -1,4 +1,4 @@
-![OCamlPro Logo](logo.png)
+![OCamlPro Logo](https://github.com/OCamlPro/.github/raw/master/profile/logo.png)
 
 [OCamlPro](https://ocamlpro.com) is a French software company, with a
 strong expertise in programming languages & formal methods, and 10+
