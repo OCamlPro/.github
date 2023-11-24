@@ -19,7 +19,7 @@ for:
   Team](https://red-iron.eu) develops our performance-critical code in
   Rust
 
-* [COBOL](https://wikipedia.org/wiki/Cobol): we develop tooling for COBOL, and participate in the maintainance of [GnuCOBOL](https://github.com/OCamlPro/gnucobol)
+* [COBOL](https://wikipedia.org/wiki/Cobol): as part of our [SuperBOL project](https://get-superbol.com), we modernize tooling for COBOL power users, and participate in the maintainance of [GnuCOBOL](https://github.com/OCamlPro/gnucobol)
 
 * [M-lang](https://mlanguage.github.io/mlang/mlang/index.html): we work on the development of a production ready version of M-lang
 
