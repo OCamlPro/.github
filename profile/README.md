@@ -26,8 +26,9 @@ for:
 * [Coq](https://coq.inria.fr/): we use Coq to prove Cybersecurity
   guarrantees on code
 
-* [Web Assembly (WASM)](https://webassembly.org/): we work on tooling
-  to target web assembly from other languages
+* [WebAssembly (Wasm)](https://webassembly.org/): we work on tooling
+  to target Wasm from other languages and to perform bug finding on them
+  by performing various Wasm static analysis such as symbolic execution
 
 * [Solidity](https://soliditylang.org/): we have developed tooling for
   several smart contract programming languages, among which Solidity,
