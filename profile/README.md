@@ -3,7 +3,7 @@
 [OCamlPro](https://ocamlpro.com) is a French software company, with a
 strong expertise in programming languages & formal methods, and 10+
 years' experience in state-of-the-art developments. Open-source is
-part of our Dna!
+part of our DNA!
 
 We have developed an expertise in several programming languages, and
 of course, we are always happy to learn new ones or even create them!
