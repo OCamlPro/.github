@@ -28,7 +28,7 @@ for:
 
 * [WebAssembly (Wasm)](https://webassembly.org/): we work on tooling
   to target Wasm from other languages and to perform bug finding on them
-  by performing various Wasm static analysis such as symbolic execution
+  by performing various Wasm static analysis such as symbolic execution. See also our Symbolic Execution Engine [Owi](https://github.com/OCamlPro/owi)
 
 * [Solidity](https://soliditylang.org/): we have developed tooling for
   several smart contract programming languages, among which Solidity,
